@@ -2,7 +2,7 @@ class StaticIntialization {
     public static void main(String[] args) {
         // static D & I
         int[] numbers = {2, 5, 7, 8};
-        String[] names = {"anu", "sushmi", "pinky"};
+        String[] names = {"Paru", "Pavani", "Pavitra"};
        //. traversal 
         for (int i = 0; i < numbers.length; i++) {
             System.out.println(numbers[i]);
