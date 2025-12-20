@@ -1,8 +1,8 @@
 class StaticIntialization {
     public static void main(String[] args) {
         // static D & I
-        int[] numbers = {2, 5, 7, 8};
-        String[] names = {"Paru", "Pavani", "Pavitra"};
+        int[] numbers = {2};
+        String[] names = {"Paru", "Pavini", "Pavitra"};
        //. traversal 
         for (int i = 0; i < numbers.length; i++) {
             System.out.println(numbers[i]);
@@ -12,10 +12,10 @@ class StaticIntialization {
             System.out.println(names[i]);
         }
       // Dynamic allocation
-        int[] darr= new int[10]; // declaration or allocation space
+        int[] darr= new int[3]; // declaration or allocation space
 
         darr[0]=1;// assign value to particular memory space 
-        darr[9]=8;
+        darr[2]=3;
 for (int i = 0; i < darr.length; i++) {
         System.out.println(darr[i]);
 }
