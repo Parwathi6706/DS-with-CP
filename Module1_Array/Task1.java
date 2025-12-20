@@ -25,6 +25,8 @@ class Name {
         int[] n3= new int[10];
         n3[0]=40;
         n3[2]=50;
+        n3[3]=70;
+        n3[9]=90;
 
         for(int i=0; i<n3.length; i++){
             System.out.println("at index "+ i + "is" + n3[i]);
