@@ -1,23 +1,26 @@
-class StaticIntialization {
+class Name {
     public static void main(String[] args) {
-        // static D & I
-        int[] numbers = {2};
-        String[] names = {"Paru", "Pavini", "Pavitra"};
-       //. traversal 
-        for (int i = 0; i < numbers.length; i++) {
-            System.out.println(numbers[i]);
+        int[]n={10,20,30,40};
+        System.out.println(n[0]);
+        System.out.println(n[1]);
+        System.out.println(n[2]);
+        System.out.println(n[3]);
+        System.out.println(n.length);
+        
+        for(int i=0; i<n.length; i++){
+            System.out.println("at index "+ i + "is" + n[i]);
         }
-
-        for (int i = 0; i < names.length; i++) {
-            System.out.println(names[i]);
+        
+        int[] n1= new int[] {1,2,3,4};
+        
+        for(int i=0; i<n1.length; i++){
+            System.out.println("at index "+ i + "is" + n1[i]);
         }
-      // Dynamic allocation
-        int[] darr= new int[3]; // declaration or allocation space
-
-        darr[0]=1;// assign value to particular memory space 
-        darr[2]=3;
-for (int i = 0; i < darr.length; i++) {
-        System.out.println(darr[i]);
-}
+        
+        String[] names =new String[] {"Paru","Pavani","Pavitra"};
+        for(int i=0; i<names.length; i++){
+            System.out.println("at index "+ i + "is" + names[i]);
+        }
+        
     }
 }
