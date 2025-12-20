@@ -21,6 +21,16 @@ class Name {
         for(int i=0; i<names.length; i++){
             System.out.println("at index "+ i + "is" + names[i]);
         }
+
+        int[] n3= new int[10];
+        n3[0]=40;
+        n3[2]=50;
+
+        for(int i=0; i<n3.length; i++){
+            System.out.println("at index "+ i + "is" + n3[i]);
+        }
+        
+        
         
     }
 }
