@@ -11,6 +11,10 @@ Queue Using LinkedList
 #TreeTraversal_Order
 <img width="398" height="576" alt="image" src="https://github.com/user-attachments/assets/cf07a863-90c3-43d1-b4fb-5e8f56cb6a4e" />
 
+#BinarySearch_Tree
+<img width="498" height="294" alt="image" src="https://github.com/user-attachments/assets/bfbea7a0-14a9-424e-ad29-92286742483f" />
+
+
 
 
 
