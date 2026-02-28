@@ -14,6 +14,10 @@ Queue Using LinkedList
 #BinarySearch_Tree
 <img width="498" height="294" alt="image" src="https://github.com/user-attachments/assets/bfbea7a0-14a9-424e-ad29-92286742483f" />
 
+#Insertion_tree
+<img width="486" height="231" alt="image" src="https://github.com/user-attachments/assets/520d81e7-a68b-4183-a844-5b3d7fcf91e3" />
+
+
 
 
 
