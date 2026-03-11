@@ -74,6 +74,10 @@ After Step 5
 
 === Code Execution Successful ===
 
+#Graphical Representation
+<img width="432" height="218" alt="image" src="https://github.com/user-attachments/assets/16af4ea6-d608-4d64-bd8b-aec1389668fa" />
+
+
 
 
 
