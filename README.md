@@ -77,6 +77,10 @@ After Step 5
 #Graphical Representation
 <img width="432" height="218" alt="image" src="https://github.com/user-attachments/assets/16af4ea6-d608-4d64-bd8b-aec1389668fa" />
 
+#DFS
+<img width="823" height="303" alt="image" src="https://github.com/user-attachments/assets/4e86c246-fd8d-4038-a6f9-db8183ac828f" />
+
+
 
 
 
